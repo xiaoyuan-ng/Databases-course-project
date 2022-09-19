@@ -7,10 +7,10 @@ For security reason, the code is not provided, but the companies that are intere
 # Instruction
 The complete user guide has been provided to tell you how and what this software can do.
 
-#Interface:
+# Interface:
 ![image](https://github.com/xiaoyuan-ng/Databases-course-project/blob/main/Interface.png)
 
-#Software Functions
+# Software Functions
 ![image](https://github.com/xiaoyuan-ng/Databases-course-project/blob/main/Provided%20functions.png)
 
 # Email
